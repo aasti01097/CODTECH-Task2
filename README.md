@@ -6,7 +6,7 @@ Domain: Cloud Computing
 
 Duration: July to September 2024 
 
-Mentor: Neela Santhosh Kumar 
+Mentor: Muzammil Ahmed  
 
 
 OVERVIEW OF PROJECT 
